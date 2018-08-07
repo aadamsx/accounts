@@ -34,22 +34,21 @@
     core-js "^2.5.7"
     regenerator-runtime "^0.12.0"
 
-"@gql2ts/from-schema@1.8.1":
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/@gql2ts/from-schema/-/from-schema-1.8.1.tgz#642637b0f26bdbb41ea42f16f6a9d873647ace49"
+"@gql2ts/from-schema@1.8.2":
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/@gql2ts/from-schema/-/from-schema-1.8.2.tgz#5ca8e159875b869292fd1e5764f37a09d254546a"
   dependencies:
-    "@gql2ts/language-typescript" "^1.8.1"
+    "@gql2ts/language-typescript" "^1.8.2"
     "@gql2ts/util" "^1.8.1"
     dedent "^0.7.0"
     graphql ">= 0.10 <1.0.0"
 
-"@gql2ts/language-typescript@^1.8.1":
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/@gql2ts/language-typescript/-/language-typescript-1.8.1.tgz#d194a9b6f2023583e6ba738a45ac47529bb2595f"
+"@gql2ts/language-typescript@^1.8.2":
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/@gql2ts/language-typescript/-/language-typescript-1.8.2.tgz#545a82606eb77cb104a932dc7f6d1e411f7a79a4"
   dependencies:
     "@gql2ts/util" "^1.8.1"
     humps "^2.0.0"
-    typescript "^2.2.2"
 
 "@gql2ts/types@1.8.1":
   version "1.8.1"
@@ -209,9 +208,9 @@
   version "0.12.6"
   resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-0.12.6.tgz#3d619198585fcabe5f4e1adfb5cf5f3388c66c13"
 
-"@types/graphql@0.13.3":
-  version "0.13.3"
-  resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-0.13.3.tgz#23af65796d341f93ef5b485138bd52c67786452d"
+"@types/graphql@0.13.4":
+  version "0.13.4"
+  resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-0.13.4.tgz#55ae9c29f0fd6b85ee536f5c72b4769d5c5e06b1"
 
 "@types/handlebars@4.0.39":
   version "4.0.39"
@@ -227,10 +226,6 @@
 "@types/is-glob@4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/is-glob/-/is-glob-4.0.0.tgz#fb8a2bff539025d4dcd6d5efe7689e03341b876d"
-
-"@types/jest@23.0.2":
-  version "23.0.2"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-23.0.2.tgz#f03f9e6dd2206cc2a2e8fd033161b0b7cf905db6"
 
 "@types/jest@23.3.1":
   version "23.3.1"
@@ -6607,10 +6602,6 @@ typedarray@^0.0.6:
 typescript@2.9.1:
   version "2.9.1"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.1.tgz#fdb19d2c67a15d11995fd15640e373e09ab09961"
-
-typescript@^2.2.2:
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
 
 uglify-js@^2.6:
   version "2.8.29"
