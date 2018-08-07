@@ -269,7 +269,21 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@types/node@*", "@types/node@10.5.4":
+"@types/mongoose@5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@types/mongoose/-/mongoose-5.2.3.tgz#0336876383d8e37bb19309ee40774ee681f163bb"
+  dependencies:
+    "@types/events" "*"
+    "@types/mongodb" "*"
+    "@types/node" "*"
+
+"@types/node-fetch@2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.1.2.tgz#8c5da14d70321e4c4ecd5db668e3f93cf6c7399f"
+  dependencies:
+    "@types/node" "*"
+
+"@types/node@*", "@types/node@10.5.4", "@types/node@9.6.7", "@types/node@^10.1.0":
   version "10.5.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.4.tgz#6eccc158504357d1da91434d75e86acde94bb10b"
 
